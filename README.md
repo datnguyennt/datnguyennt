@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-💻 Hi there! I'm a mobile developer with 3 years of experience specializing in Flutter. I have a passion for exploring various technical topics, gaming, and travel. When I'm not coding, you can often find me engrossed in reading or watching videos related to these interests.
+💻 Hi there! I'm a mobile developer with 3 years of experience specializing in Flutter. I am passionate about exploring various technical topics, gaming, and travel. When I'm not coding, you can often find me engrossed in reading or watching videos related to these interests.
 
 📫 How to reach me: 
 <div id="badges" align="center">
@@ -32,7 +32,7 @@
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
+<div>
   
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -59,15 +59,11 @@
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>&nbsp;
 
