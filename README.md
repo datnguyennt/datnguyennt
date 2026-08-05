@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-💻 Hi there! I'm a mobile developer with 3 years of experience specializing in Flutter. I am passionate about exploring various technical topics, gaming, and travel. When I'm not coding, you can often find me engrossed in reading or watching videos related to these interests.
+💻 Hi there! I'm a mobile developer with 4 years of experience specializing in Flutter. I am passionate about exploring various technical topics, gaming, and travel. When I'm not coding, you can often find me engrossed in reading or watching videos related to these interests.
 
 📫 How to reach me: 
 <div id="badges" align="center">
